@@ -12,14 +12,17 @@ This is the output of our run on the car dataset with our parameters for pruning
 
 <img src="https://github.com/Obadah-H/ML-Course_MISIS-University/blob/master/3-ID3/Prune.png?raw=true">
 
-the accuracy is: 74.71%
-The dataset is about rating cars according to their specs. Link: http://archive.ics.uci.edu/ml/datasets/Car+Evaluation
+the accuracy is: 74.71%.
+
+The dataset is about rating cars according to their specs. Link: http://archive.ics.uci.edu/ml/datasets/Car+Evaluation.
+
 How to run it:
+
 ```
 python3 (dataset) (Method) (HTML page)
 ```
-method: for cut: 0 , for pruning: 1
-for example:
+method: for cut: 0 , for pruning: 1. For example:
+
 
 ```
     python3 id3.py car.csv 1 out
