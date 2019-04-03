@@ -28,6 +28,6 @@ if we want a static window:
 ```
 An output example to find optimal k for KNN:
 
-<img src="https://github.com/Obadah-H/ML-Course_MISIS-University/blob/master/2-KNN/dynamic/exclude.png?raw=true">
+<img src="https://github.com/Obadah-H/ML-Course_MISIS-University/blob/master/2-KNN/static/exclude.png?raw=true">
 
 *Note: if we don't specify 'h', the default value is '0.9'*
